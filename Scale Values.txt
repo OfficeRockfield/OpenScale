@@ -1,0 +1,9 @@
+Cyclinder Docking station:
+
+Tare: 203451
+Calibrate: 630815
+
+NFC Docking Station
+
+Tare: -122913
+Calibrate: 1033780
